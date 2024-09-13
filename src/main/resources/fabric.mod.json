@@ -1,0 +1,39 @@
+{
+	"schemaVersion": 1,
+	"id": "emd_universe",
+	"version": "${version}",
+	"name": "EMD Universe",
+	"description": "Русский:\nThis is an example description! Tell everyone what your mod is about!\nEnglish:\nThis is an example description! Tell everyone what your mod is about!",
+	"authors": [
+		"ERFMD Team"
+	],
+	"license": "MIT",
+	"icon": "assets/emd_universe/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.erfmd.EMDUniverse"
+		],
+		"client": [
+			"net.erfmd.EMDUniverseClient"
+		],
+		"fabric-datagen": [
+			"net.erfmd.EMDUniverseDataGenerator"
+		],
+		"terrablender": [
+			"net.erfmd.world.biome.EMDTerraBlenderAPI"
+		]
+	},
+	"mixins": [
+		"emd_universe.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.14.21",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

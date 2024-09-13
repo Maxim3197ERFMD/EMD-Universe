@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:golden_apple"
+    },
+    "A": {
+      "item": "minecraft:sweet_berries"
+    },
+    "B": {
+      "item": "minecraft:cookie"
+    },
+    "R": {
+      "item": "minecraft:egg"
+    }
+  },
+  "pattern": [
+    "###",
+    "ARA",
+    "BBB"
+  ],
+  "result": {
+    "item": "emd_universe:experiment_115"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "G": {
+      "item": "minecraft:glowstone"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "S": {
+      "item": "minecraft:blue_stained_glass"
+    }
+  },
+  "pattern": [
+    "SRS",
+    "RGR",
+    "SRS"
+  ],
+  "result": {
+    "item": "emd_universe:blue_redstone_lamp"
+  }
+}

@@ -1,0 +1,14 @@
+// 1.20.4	2024-08-28T12:54:23.7120997	EMD Universe/Tags for minecraft:block
+4175ea727f597425878d73c4bf98fb6dadb4d48b data\minecraft\tags\blocks\beacon_base_blocks.json
+fcc727a357b19c3323c6caaf5f0b4e26484b4994 data\minecraft\tags\blocks\stairs.json
+6e03036dc77b8d49d6d908ce4370b23c025e1fb3 data\minecraft\tags\blocks\mineable\pickaxe.json
+f9e4f4d4cc5d83d5cad7f0cbbdb79d5d326d3dba data\minecraft\tags\blocks\walls.json
+37efc882e3e7053ac01b1eb5b37931a100d4b00b data\minecraft\tags\blocks\mineable\hoe.json
+46c04cd71c92454c288c27be67eac0d7c1e67f1e data\minecraft\tags\blocks\doors.json
+0b6c78878f6009b1629a9410b8030c78e8b26a0d data\minecraft\tags\blocks\needs_iron_tool.json
+9a2c098631631db781e833024623e8943fb227aa data\minecraft\tags\blocks\mineable\shovel.json
+5621e16e6bbaed04c57d0de3b24636693f495823 data\minecraft\tags\blocks\needs_stone_tool.json
+42b5249bf4029804efa0a8562d30051b0d8bee37 data\minecraft\tags\blocks\needs_diamond_tool.json
+08ab27e19ca7156f19afde852355eeb1c9d90e5f data\minecraft\tags\blocks\candle_cakes.json
+6727ec3565145a17a807a84bc7dbd84ed01a1fcf data\minecraft\tags\blocks\trapdoors.json
+1aadeec3eee8159d005ee6b08109c0354666a40f data\minecraft\tags\blocks\slabs.json

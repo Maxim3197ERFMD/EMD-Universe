@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "emd_universe:emerald_dust"
+    },
+    "E": {
+      "item": "minecraft:gold_block"
+    },
+    "R": {
+      "item": "emd_universe:diamond_dust"
+    },
+    "S": {
+      "item": "emd_universe:energy_ball"
+    }
+  },
+  "pattern": [
+    "#R#",
+    "SES",
+    "#R#"
+  ],
+  "result": {
+    "item": "emd_universe:special_storage"
+  }
+}

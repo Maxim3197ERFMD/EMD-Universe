@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "emd_universe:sandstone_bricks"
+  },
+  "result": "emd_universe:chiseled_sandstone_bricks"
+}

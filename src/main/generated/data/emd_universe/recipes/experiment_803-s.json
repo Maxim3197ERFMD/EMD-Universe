@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:honey_bottle"
+    },
+    "A": {
+      "item": "minecraft:rotten_flesh"
+    },
+    "B": {
+      "item": "minecraft:wheat"
+    },
+    "R": {
+      "item": "minecraft:spider_eye"
+    }
+  },
+  "pattern": [
+    "###",
+    "ARA",
+    "BBB"
+  ],
+  "result": {
+    "item": "emd_universe:experiment_803-s"
+  }
+}
